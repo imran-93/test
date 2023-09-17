@@ -1,0 +1,15 @@
+# Synopsis
+
+...
+
+# Objectives
+
+...
+
+# Location(s)
+
+...
+
+# Level walkthrough
+
+...

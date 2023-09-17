@@ -1,0 +1,5 @@
+![location.jpg](files/fa83e43b-e3ae-43fd-9629-d674971d8df4/location.jpg)# General descriptionThe old harbor is a place bustling with activity. It's always full of noise: the shouts of fishermen auctioning their fish, the loud thuds of crates being loaded off the boats, the cries of hungry seagulls. [The fish market](<The fish market e1fd6e67.md?n>) is located at the heart of the harbor.In [Level 1: Prologue](<Level 1_ Prologue 5d56192f.md?n>), [The protagonist](<The protagonist 5f43bf14.md?n>) reaches the harbor after surviving a shipwreck and being rescued by a fisherman. ...## Inspiration[](https://www.youtube.com/watch?v=t0AmfPQMs4k)# Levels that use this area- [Level 1: Prologue](<Level 1_ Prologue 5d56192f.md?n>)
+- [Level 2: Initiation](<Level 2_ Initiation 4a8d2f69.md?n>)
+- ...# Connections to other areas- [The fish market](<The fish market e1fd6e67.md?n>) is located in the old harbor area.
+- The old harbor is to the south of [The imperial capital](<The imperial capital 0ff164be.md?n>).
+- ...

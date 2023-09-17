@@ -1,0 +1,3 @@
+- [The protagonist](<The protagonist 5f43bf14.md?n>)
+- [Emperor Muriel VII](<Emperor Muriel VII 5a144541.md?n>)
+- [NPCs](<NPCs 78c94133.md?n>)
